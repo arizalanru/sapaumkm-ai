@@ -49,3 +49,6 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
+
+Microsoft/Windows/PowerShell/
+.sites-runtime/
